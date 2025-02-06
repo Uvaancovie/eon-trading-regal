@@ -120,15 +120,16 @@ export default function ContactPage() {
           <div className="mt-8">
             <h3 className="text-xl font-semibold mb-4">Find Us</h3>
             <div className="aspect-w-16 aspect-h-9">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114584.73401841301!2d27.9001517748019!3d-26.17145371200545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950c68f0406a51%3A0x238ac9d9b1d34041!2sJohannesburg%2C%20South%20Africa!5e0!3m2!1sen!2sus!4v1644345154657!5m2!1sen!2sus"
-                width="600"
-                height="450"
-                style={{ border: 0 }}
-                allowFullScreen={false}
-                loading="lazy"
-                className="w-full"
-              ></iframe>
+            <iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.7286236112145!2d31.016387599999998!3d-29.727619199999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef704449d953cc9%3A0xf3b31025fdada12b!2s41%20Fieldside%20Ave%2C%20Centenary%20Park%2C%20Phoenix%2C%204068!5e0!3m2!1sen!2sza!4v1738832408490!5m2!1sen!2sza"
+  width="600"
+  height="450"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  className="w-full"
+/>
             </div>
           </div>
         </div>

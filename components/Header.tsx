@@ -29,7 +29,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         {/* Brand / Logo */}
         <Link href="/" className="text-2xl font-bold text-gold">
-          Eon Trading Regal
+          Eon General Supply Company (Pty) Ltd
         </Link>
 
         {/* Mobile Menu Button */}
