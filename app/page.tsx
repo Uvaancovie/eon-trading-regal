@@ -1,9 +1,9 @@
 import React from 'react'
-import Hero from '@/components/Hero'
-import Services from '@/components/Services'
-import { Certifications } from '@/components/Certifications'
-import { CertificationBanner } from '@/components/CertificationsBanner'
-import { About } from '@/components/About'
+import Hero from '@/app/components/Hero'
+import Services from '@/app/components/Services'
+import { Certifications } from '@/app/components/Certifications'
+import { CertificationBanner } from '@/app/components/CertificationsBanner'
+import { About } from '@/app/components/About'
 
 const Home = () => {
   return (

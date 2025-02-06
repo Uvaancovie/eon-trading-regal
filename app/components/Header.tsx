@@ -9,8 +9,8 @@ import {
   NavigationMenuItem,
   NavigationMenuLink,
   navigationMenuTriggerStyle,
-} from "../components/ui/navigation-menu"
-import { Button } from "../components/ui/button"
+} from "./ui/navigation-menu"
+import { Button } from "./ui/button"
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
