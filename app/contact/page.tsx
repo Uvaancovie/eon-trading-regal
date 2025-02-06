@@ -105,15 +105,15 @@ export default function ContactPage() {
           <div className="space-y-4">
             <div className="flex items-center">
               <MapPin className="w-6 h-6 mr-2 text-gold" />
-              <p>123 Industrial Avenue, Johannesburg, South Africa</p>
+              <p>41 Fieldside Avenue Phoenix</p>
             </div>
             <div className="flex items-center">
               <Phone className="w-6 h-6 mr-2 text-gold" />
-              <p>+27 11 123 4567</p>
+              <p>+27 82 891 2818</p>
             </div>
             <div className="flex items-center">
               <Mail className="w-6 h-6 mr-2 text-gold" />
-              <p>info@eontradingregals.com</p>
+              <p>eongeneral01@gmail.com</p>
             </div>
           </div>
 

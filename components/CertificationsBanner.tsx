@@ -7,8 +7,8 @@ import { motion } from "framer-motion"
 const certifications = [
   { label: "VAT No.", value: "4310315355" },
   { label: "Company Reg No.", value: "2023/868724/07" },
-  { label: "CSD No.", value: "MAAA1420220" },
-  { label: "Tax Pin", value: "971FD8133V" },
+  { label: "CSD No.", value: "CSD Registered" },
+  { label: "Tax Compliant", value: "" },
 ]
 
 export function CertificationBanner() {
