@@ -52,7 +52,7 @@ export function About() {
   return (
     <section className="py-20 bg-neutralBg">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold mb-12 text-center">About Eon Trading Regal</h2>
+        <h2 className="text-4xl font-bold mb-12 text-center">About Eon General Supply Company (Pty) Ltd</h2>
         <div className="max-w-4xl mx-auto">
           <Carousel className="w-full">
             <CarouselContent>
@@ -84,8 +84,8 @@ export function About() {
         </div>
         <div className="mt-12 text-center">
           <p className="text-xl text-darkGray mb-6">
-            Eon Trading Regal is a 100% Black, Woman and Youth owned General Supply Company registered on the CENTRAL
-            SUPPLIER DATABASE [MAAA1420220] and Fully tax compliant [Pin- 971FD8133V].
+            Eon General Supply Company (Pty) Ltd is a 100% Black, Woman and Youth owned General Supply Company registered on the CENTRAL
+            SUPPLIER DATABASE  and Fully tax compliant.
           </p>
           <p className="text-lg text-darkGray">
             We offer a wide range of Industrial supplies to Vehicle components. All our products are of High quality

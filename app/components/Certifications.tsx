@@ -5,12 +5,12 @@ import { CheckCircle } from "lucide-react"
 const certifications = [
   {
     title: "Central Supplier Database",
-    id: "MAAA1420220",
+    id: "Certified",
     description: "Registered and verified supplier",
   },
   {
     title: "Tax Compliance",
-    id: "971FD8133V",
+    id: "Certified",
     description: "Fully tax compliant status",
   },
   {
