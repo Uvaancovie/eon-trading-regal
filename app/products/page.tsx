@@ -32,7 +32,7 @@ const productCategories: { name: string, products: Product[] }[] = [
     ]
   },
   {
-    name: "Cleaning Equipment & Consumables",
+    name: "Cleaning Equipment & Consumable",
     products: [
       { id: 7, name: "Circuit Breaker", sku: "EC-001", price: 29.99, stock: 100 },
     ]
