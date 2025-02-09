@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-4xl font-bold text-center text-gray-900 mb-8">About Eon General Supply Company</h1>
+        <h1 className="text-4xl font-bold text-center text-gray-900 mb-8">About Eon General Supply Company (Pty) Ltd</h1>
 
         <div className="bg-white shadow overflow-hidden sm:rounded-lg">
           <div className="px-4 py-5 sm:px-6">
@@ -12,7 +12,7 @@ const About = () => {
           </div>
           <div className="border-t border-gray-200 px-4 py-5 sm:p-6">
             <p className="mt-1 text-gray-600">
-              Eon General Supply Company is a 100% black woman and youth owned general supply company. We are registered
+              Eon General Supply Company  is a 100% black woman and youth owned general supply company. We are registered
               on the central supplier database and fully tax compliant.
             </p>
           </div>
